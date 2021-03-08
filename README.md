@@ -9,8 +9,9 @@ It extracts HTML code automatically and generates a corpus with key information 
 Several text processing tools are applied (tokenization, stemming -Porter's algorithm, elimination of repeated words, construction of a vocabulary).
 Vectorial representations of texts and inverted file are made, according to two weight functions (a local one -tf- and a global one -tfidf-)
 
-The code can also be found and tested in https://colab.research.google.com/drive/1bSSbN0VxADUg4HjaR_D8Wx6bjUvHzymw#scrollTo=BozHlRBUcBsH&uniqifier=1
-Attached is the document assignment, where I comment the code step by step -in spanish-
+The code can also be found and tested here: https://colab.research.google.com/drive/1bSSbN0VxADUg4HjaR_D8Wx6bjUvHzymw#scrollTo=BozHlRBUcBsH&uniqifier=1
+
+Attached is the assignment written in LaTeX, where I comment the code step by step -in spanish-.
 
 greetings,
             eva
